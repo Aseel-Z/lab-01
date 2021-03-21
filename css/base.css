@@ -1,0 +1,21 @@
+
+body {
+    overflow: auto;
+}
+
+#sec-1 {
+    float: left;
+}
+
+#sec-2 {
+    float: left;
+}
+
+#sec-3 {
+    float: left;
+}
+
+@viewport {
+    width: device-width;
+    zoom: 100%;
+}
