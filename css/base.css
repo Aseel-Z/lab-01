@@ -1,21 +1,23 @@
 
-body {
-    overflow: auto;
+#sec {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: larger;
+    display: inline-block;
+    width: 480px;
+    height:767px ;
+    border-width: 1px;
 }
 
-#sec-1 {
-    float: left;
+@media (max-width: 960px) {
+    #sec {
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        font-size: larger;
+        display: inline-block;
+        width: 960px;
+        height:767px ;
+        border-width: 1px;
+    }
 }
 
-#sec-2 {
-    float: left;
-}
-
-#sec-3 {
-    float: left;
-}
-
-@viewport {
-    width: device-width;
-    zoom: 100%;
-}
