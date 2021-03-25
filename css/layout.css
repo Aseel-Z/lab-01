@@ -19,7 +19,7 @@
     box-sizing: border-box;
     text-align: center;
     line-height: 150px;
-    background-color: rgb(165, 163, 163);
+    background-color: rgb(174, 30, 30);
     border-width: 1px;
 }
 #div-c {
@@ -30,7 +30,7 @@
     box-sizing: border-box;
     text-align: center;
     line-height: 125px;
-    background-color: rgb(165, 163, 163);
+    background-color: rgb(27, 160, 27);
     border-width: 1px;
 }
 #div-d {
@@ -41,7 +41,7 @@
     box-sizing: border-box;
     text-align: center;
     line-height: 125px;
-    background-color: rgb(165, 163, 163);
+    background-color: rgb(28, 14, 133);
     border-width: 1px;
 }
 
@@ -55,7 +55,7 @@
     text-align: center;
     float: left;
     line-height: 250px;
-    background-color: rgb(165, 163, 163);
+    background-color: rgb(117, 10, 67);
     border-width: 1px;
 }
 #div-f {
@@ -67,7 +67,7 @@
     text-align: center;
     float: right;
     line-height: 250px;
-    background-color: rgb(165, 163, 163);
+    background-color: rgb(103, 11, 11);
     border-width: 1px;
 }
 #div-g {
@@ -79,7 +79,7 @@
     text-align: center;
     float: left;
     line-height: 250px;
-    background-color: rgb(165, 163, 163);
+    background-color: rgb(30, 128, 110);
     border-width: 1px;
 
 }
@@ -92,7 +92,7 @@
     text-align: center;
     float: right;
     line-height: 250px;
-    background-color: rgb(165, 163, 163);
+    background-color: rgb(123, 154, 10);
     border-width: 1px;
 }
  #div-i {
@@ -102,10 +102,9 @@
     width: 480px;
     height: 80px;
     text-align: center;
-    background-color: grey;
     float: right;
     line-height: 80px;
-    background-color: rgb(165, 163, 163);
+    background-color: rgb(203, 14, 14);
     border-width: 1px;
 } 
 
@@ -131,7 +130,7 @@
         box-sizing: border-box;
         text-align: center;
         line-height: 600px;
-        background-color: beige;
+        background-color: rgb(174, 30, 30);
         border-width: 1px;
         float: left;
     }
@@ -143,7 +142,7 @@
         box-sizing: border-box;
         text-align: center;
         line-height: 200px;
-        background-color: beige;
+        background-color: rgb(27, 160, 27);
         border-width: 1px;
         float: right;
     }
@@ -155,7 +154,7 @@
         box-sizing: border-box;
         text-align: center;
         line-height: 200px;
-        background-color: beige;
+        background-color: rgb(28, 14, 133);
         border-width: 1px;
         float: right;
     }
@@ -170,7 +169,7 @@
         text-align: center;
         float: left;
         line-height: 250px;
-        background-color: beige;
+        background-color: rgb(117, 10, 67);
         border-width: 1px;
         float: left;
     }
@@ -183,7 +182,7 @@
         text-align: center;
         float: right;
         line-height: 250px;
-        background-color: beige;
+        background-color: rgb(103, 11, 11);
         border-width: 1px;
         float: right;
     }
@@ -196,7 +195,7 @@
         text-align: center;
         float: left;
         line-height: 250px;
-        background-color: beige;
+        background-color: rgb(30, 128, 110);
         border-width: 1px;
         float: right;
     
@@ -210,7 +209,7 @@
         text-align: center;
         float: right;
         line-height: 250px;
-        background-color: beige;
+        background-color: rgb(123, 154, 10);
         border-width: 1px;
         float: right;
     }
@@ -224,7 +223,7 @@
         background-color: grey;
         float: right;
         line-height: 150px;
-        background-color: beige;
+        background-color: rgb(203, 14, 14);
         border-width: 1px;
         float: left;
     }
